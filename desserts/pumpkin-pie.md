@@ -30,6 +30,10 @@
 - Add eggs and blend
 - Add evaporated milk and blend
 
+## Alternative
+
+- Buy from store
+
 
 ## Baking
 
